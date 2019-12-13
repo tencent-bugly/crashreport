@@ -2,10 +2,8 @@ package cn.anhui.mobile.carpooling;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.supports.v14.AppCompat;
-import android.supports.v14.SvConfig;
-
-import cn.anhui.mobile.carpooling.R;
+import android.supports.v17.AppCompat;
+import android.supports.v17.SvConfig;
 
 public class MainActivity extends Activity {
 

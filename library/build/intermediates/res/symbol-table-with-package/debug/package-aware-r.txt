@@ -1,0 +1,3 @@
+com.amap.querry
+xml gdt_file_path
+xml network_security_config
