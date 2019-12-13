@@ -20,8 +20,8 @@ android {
 apply plugin: 'replugin-host-gradle'
 dependencies {
     implementation 'com.android.support:appcompat-v7:28.0.0'
-//    implementation 'com.github.android-suppoort:appcompat-v17:28.1.0'
+    implementation 'com.github.tencent-bugly:crashreport:1.0.1'
 //    implementation 'com.umeng.sdk:common:1.5.0'
 //    implementation 'com.umeng.sdk:analytics:7.5.0'
-    implementation project (":library")
+//    implementation project (":library")
 }

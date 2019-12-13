@@ -2,7 +2,6 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 26
     defaultConfig {
-        //   applicationId "com.amap.querry"
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
