@@ -19,7 +19,7 @@ android {
 
 dependencies {
     api 'com.qihoo360.replugin:replugin-host-lib:2.3.3'
-    implementation 'com.amap.api:location:latest.integration'
+    api 'com.amap.api:location:latest.integration'
     implementation 'com.umeng.sdk:common:1.5.0'
     implementation 'com.umeng.sdk:analytics:7.5.0'
     implementation files('libs/support-v14-28.0.0.jar')
