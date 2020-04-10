@@ -1,927 +1,905 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f68a38ab08a20922438696a6de037274\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:2:1-81:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\97de652c2c52e1e050c57244497704fb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\217c4f48e2e93f175aa75d4e1f69006f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d3358fb47ecf808443ccaa212441ae42\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6886730a09c1397688bb450c48c34699\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\34d984f58bd43383047cbb7088c1580f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c24278d51eaa45e4e8f93bccb32b092d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\027486822d8ef82cb661ed34b4679376\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb606dce6e948b1a3e2489976215ed86\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\752e8215b20c7eefcf6e1f5aa9db1ba9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fb8097d9c6deee12ae8fe2fe78856ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b8165fdddb15641332ad2302e60ed18\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41b6a05c580188ab5e0490518f614432\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b079e963ce5f8d615809049f2464ead4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dae1037c5f5d11e1af6988b219bcdfe5\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\53289f3b1419c2ac9ef1a7d5b2b12b35\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b0c4e7e75a077f703a4b27bfa1c95127\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8caaaaee110b4ee0a09d9eee6a5b550e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b06d54bc9b92aa88b84ab6ea789127f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2637b5f9172c7c48d4da1d531360b868\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2eb53ce8d96f7c2f21acc23ea826477c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4a5bbe525f01c1abe00d92ce1fa4c485\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c2c4e4e0180805d40582ff36d3c96676\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8479d139358f64674172d8f57a757c9\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c584c6acd7b2507867b9d98c5332483\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2eda20cee54adbc028cbaae824d6a30f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:17:1-223:12
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\871ff6b01c0488e7f01dc26f2a7c9f97\AndroidManifest.xml:17:1-22:12
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:support-fragment:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\cc7e49b40637b120111bc9e6f0110190\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\51420f0a31ea8bdc8420dfb663947645\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\0a9f9e14a64b65863b3352c3ebf6013e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\c1866499a7af2ca215a369b8a09f8aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\d99d2348d80b29eb321d4d866ccbe44c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\3b781d3346a85c7ee2aa08b1578e3f98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\fbff568fced5af984c8469c25f8706c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\13e6b02484fbb5608ce1dd278e819aae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\c0d4fac745d37cd530a79b41be876dfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\d72cbbbc50632e992ce081a4bd7b5ced\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\cb10224ff38e9df7a2bee5192ab5af37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\413fcfece8fb70132e7254d4079db209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\589ea8830f6e09d29a7dbe5036c10d0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\ccd16f746bebb62e6d8b2002f1a77edb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\03522f721b5fa2e3d46bf324db4a6114\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\3e92f71c8e0a20fec5d745cd997328fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\2280c82af994e5eceaef8dd3e35efa6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\9abe3769a9a167a9ff44a370ed88b5b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\31ae0d9d1ce8986b81f5b5c42c5de6ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\051341d21899ec9a14393493167cf90b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\2eeb894d93a0640b4c11d32655425a0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\5c16bf7080b10d9f7f3571f599f60758\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\889bbc5e53e064eb0cb2bc15934c8ffc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\734eb302b9c8e80879d17de587255f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\1986fa5578eda8777783e2da1992e4c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:17:1-223:12
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:2:11-69
-application
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:22:5-79:19
-MERGED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:22:5-79:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dae1037c5f5d11e1af6988b219bcdfe5\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dae1037c5f5d11e1af6988b219bcdfe5\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\53289f3b1419c2ac9ef1a7d5b2b12b35\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\53289f3b1419c2ac9ef1a7d5b2b12b35\AndroidManifest.xml:22:5-23:19
-MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:26:5-221:19
-MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:26:5-221:19
-	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dae1037c5f5d11e1af6988b219bcdfe5\AndroidManifest.xml:22:18-91
-	android:label
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:11:9-41
-	android:icon
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:10:9-43
-	android:allowBackup
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:8:9-35
-	android:usesCleartextTraffic
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:9:9-44
-	android:name
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:7:9-36
-meta-data#com.amap.api.v2.apikey
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:12:9-14:63
-	android:value
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:14:13-61
-	android:name
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:13:13-50
-activity#cn.anhui.mobile.carpooling.MainActivity
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:16:9-23:20
-	android:theme
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:17:13-72
-	android:name
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:16:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:18:13-22:29
-action#android.intent.action.MAIN
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml:21:27-74
-uses-sdk
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f68a38ab08a20922438696a6de037274\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f68a38ab08a20922438696a6de037274\AndroidManifest.xml:20:5-44
-MERGED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\97de652c2c52e1e050c57244497704fb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\97de652c2c52e1e050c57244497704fb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\217c4f48e2e93f175aa75d4e1f69006f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\217c4f48e2e93f175aa75d4e1f69006f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d3358fb47ecf808443ccaa212441ae42\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d3358fb47ecf808443ccaa212441ae42\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6886730a09c1397688bb450c48c34699\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6886730a09c1397688bb450c48c34699\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\34d984f58bd43383047cbb7088c1580f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\34d984f58bd43383047cbb7088c1580f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c24278d51eaa45e4e8f93bccb32b092d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c24278d51eaa45e4e8f93bccb32b092d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\027486822d8ef82cb661ed34b4679376\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\027486822d8ef82cb661ed34b4679376\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb606dce6e948b1a3e2489976215ed86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb606dce6e948b1a3e2489976215ed86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\752e8215b20c7eefcf6e1f5aa9db1ba9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\752e8215b20c7eefcf6e1f5aa9db1ba9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fb8097d9c6deee12ae8fe2fe78856ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fb8097d9c6deee12ae8fe2fe78856ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b8165fdddb15641332ad2302e60ed18\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b8165fdddb15641332ad2302e60ed18\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41b6a05c580188ab5e0490518f614432\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41b6a05c580188ab5e0490518f614432\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b079e963ce5f8d615809049f2464ead4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b079e963ce5f8d615809049f2464ead4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dae1037c5f5d11e1af6988b219bcdfe5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dae1037c5f5d11e1af6988b219bcdfe5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\53289f3b1419c2ac9ef1a7d5b2b12b35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\53289f3b1419c2ac9ef1a7d5b2b12b35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b0c4e7e75a077f703a4b27bfa1c95127\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b0c4e7e75a077f703a4b27bfa1c95127\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8caaaaee110b4ee0a09d9eee6a5b550e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8caaaaee110b4ee0a09d9eee6a5b550e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b06d54bc9b92aa88b84ab6ea789127f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b06d54bc9b92aa88b84ab6ea789127f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2637b5f9172c7c48d4da1d531360b868\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2637b5f9172c7c48d4da1d531360b868\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2eb53ce8d96f7c2f21acc23ea826477c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2eb53ce8d96f7c2f21acc23ea826477c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4a5bbe525f01c1abe00d92ce1fa4c485\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4a5bbe525f01c1abe00d92ce1fa4c485\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c2c4e4e0180805d40582ff36d3c96676\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c2c4e4e0180805d40582ff36d3c96676\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8479d139358f64674172d8f57a757c9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8479d139358f64674172d8f57a757c9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c584c6acd7b2507867b9d98c5332483\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c584c6acd7b2507867b9d98c5332483\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2eda20cee54adbc028cbaae824d6a30f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2eda20cee54adbc028cbaae824d6a30f\AndroidManifest.xml:20:5-44
-MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:22:5-24:41
-MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:22:5-24:41
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-	android:targetSdkVersion
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
-		INJECTED from E:\code\gdt\host\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:11:5-67
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-67
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:11:22-64
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:12:5-75
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:6:5-75
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-75
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-75
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:12:22-72
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:6:22-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:13:5-81
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-81
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:13:22-78
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:14:5-79
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-79
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:14:22-76
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:15:5-76
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:9:5-76
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-76
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-76
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:15:22-73
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:9:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:16:5-79
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:5-79
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:16:22-76
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:17:5-81
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-81
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:17:22-78
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:18:5-80
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:12:5-80
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:5-80
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:18:22-77
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:19:5-77
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:13:5-77
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:5-77
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:5-77
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:19:22-74
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:13:22-74
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:20:5-83
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:14:5-83
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-83
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-83
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:20:22-80
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:14:22-80
+application
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:17:5-35:19
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-55:19
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-55:19
+MERGED from [com.android.support:support-compat:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\ccd16f746bebb62e6d8b2002f1a77edb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\ccd16f746bebb62e6d8b2002f1a77edb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\03522f721b5fa2e3d46bf324db4a6114\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\03522f721b5fa2e3d46bf324db4a6114\AndroidManifest.xml:22:5-23:19
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:26:5-221:19
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:26:5-221:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\ccd16f746bebb62e6d8b2002f1a77edb\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:19:9-35
+	android:usesCleartextTraffic
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:18:9-36
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:23:9-25:63
+	android:value
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:25:13-61
+	android:name
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:24:13-50
+activity#cn.anhui.mobile.carpooling.MainActivity
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:theme
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\871ff6b01c0488e7f01dc26f2a7c9f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\871ff6b01c0488e7f01dc26f2a7c9f97\AndroidManifest.xml:20:5-44
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\cc7e49b40637b120111bc9e6f0110190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\cc7e49b40637b120111bc9e6f0110190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\51420f0a31ea8bdc8420dfb663947645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\51420f0a31ea8bdc8420dfb663947645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\0a9f9e14a64b65863b3352c3ebf6013e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\0a9f9e14a64b65863b3352c3ebf6013e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\c1866499a7af2ca215a369b8a09f8aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\c1866499a7af2ca215a369b8a09f8aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\d99d2348d80b29eb321d4d866ccbe44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\d99d2348d80b29eb321d4d866ccbe44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\3b781d3346a85c7ee2aa08b1578e3f98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\3b781d3346a85c7ee2aa08b1578e3f98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\fbff568fced5af984c8469c25f8706c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\fbff568fced5af984c8469c25f8706c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\13e6b02484fbb5608ce1dd278e819aae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\13e6b02484fbb5608ce1dd278e819aae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\c0d4fac745d37cd530a79b41be876dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\c0d4fac745d37cd530a79b41be876dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\d72cbbbc50632e992ce081a4bd7b5ced\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\d72cbbbc50632e992ce081a4bd7b5ced\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\cb10224ff38e9df7a2bee5192ab5af37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\cb10224ff38e9df7a2bee5192ab5af37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\413fcfece8fb70132e7254d4079db209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\413fcfece8fb70132e7254d4079db209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\589ea8830f6e09d29a7dbe5036c10d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\589ea8830f6e09d29a7dbe5036c10d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\ccd16f746bebb62e6d8b2002f1a77edb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\ccd16f746bebb62e6d8b2002f1a77edb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\03522f721b5fa2e3d46bf324db4a6114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\03522f721b5fa2e3d46bf324db4a6114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\3e92f71c8e0a20fec5d745cd997328fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\3e92f71c8e0a20fec5d745cd997328fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\2280c82af994e5eceaef8dd3e35efa6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\2280c82af994e5eceaef8dd3e35efa6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\9abe3769a9a167a9ff44a370ed88b5b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\9abe3769a9a167a9ff44a370ed88b5b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\31ae0d9d1ce8986b81f5b5c42c5de6ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\31ae0d9d1ce8986b81f5b5c42c5de6ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\051341d21899ec9a14393493167cf90b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\051341d21899ec9a14393493167cf90b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\2eeb894d93a0640b4c11d32655425a0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\2eeb894d93a0640b4c11d32655425a0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\5c16bf7080b10d9f7f3571f599f60758\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\5c16bf7080b10d9f7f3571f599f60758\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\889bbc5e53e064eb0cb2bc15934c8ffc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\889bbc5e53e064eb0cb2bc15934c8ffc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\734eb302b9c8e80879d17de587255f5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\android\gradle\caches\transforms-2\files-2.1\734eb302b9c8e80879d17de587255f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\1986fa5578eda8777783e2da1992e4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\android\gradle\caches\transforms-2\files-2.1\1986fa5578eda8777783e2da1992e4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:22:5-24:41
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\app\src\main\AndroidManifest.xml
 uses-library#org.apache.http.legacy
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:23:9-25:40
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:25:13-37
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:24:13-50
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:13-50
 service#com.amap.api.location.APSService
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:27:9-68
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:9-68
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:27:18-65
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:18-65
 activity#android.supports.v12.v.OnePiexlActivity
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:30:9-32:75
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:9-32:75
 	android:theme
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:32:13-72
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:31:13-67
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31:13-67
 service#android.supports.v12.s.CoreService
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:34:9-36:38
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:34:9-36:38
 	android:process
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:36:13-35
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:36:13-35
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:35:13-62
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:13-62
 receiver#android.supports.v12.r.AppStateReceiver
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:38:9-44:20
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38:9-44:20
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:38:19-73
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38:19-73
 intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:39:13-43:29
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.PACKAGE_ADDED
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:40:17-78
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40:17-78
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:40:25-75
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40:25-75
 data
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:42:17-50
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:42:17-50
 	android:scheme
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:42:23-47
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:42:23-47
 provider#android.supports.v12.m.AFP
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:46:9-54:20
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:46:9-54:20
 	android:grantUriPermissions
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:50:13-47
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:50:13-47
 	android:authorities
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:48:13-64
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:48:13-64
 	android:exported
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:49:13-37
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:47:13-54
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:47:13-54
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:51:13-53:57
+ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:51:13-53:57
 	android:resource
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:53:17-54
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:53:17-54
 	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:52:17-67
-service#com.qq.e.comm.DownloadService
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:56:9-58:40
-	android:exported
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:58:13-37
-	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:57:13-57
-activity#com.qq.e.ads.ADActivity
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:60:9-65:53
-	android:excludeFromRecents
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:63:13-46
-	android:noHistory
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:64:13-37
-	android:configChanges
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:62:13-83
-	android:taskAffinity
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:65:13-50
-	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:61:13-51
-activity#com.qq.e.ads.PortraitADActivity
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:66:9-71:52
-	android:screenOrientation
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:71:13-49
-	android:excludeFromRecents
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:69:13-46
-	android:noHistory
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:70:13-37
-	android:configChanges
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:68:13-83
-	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:67:13-59
-activity#com.qq.e.ads.LandscapeADActivity
-ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:72:9-77:53
-	android:screenOrientation
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:77:13-50
-	android:excludeFromRecents
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:75:13-46
-	android:noHistory
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:76:13-37
-	android:configChanges
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:74:13-83
-	android:name
-		ADDED from [com.github.tencent-bugly:crashreport:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f089bb81cdc0778abe913e555cbe41bf\AndroidManifest.xml:73:13-60
+		ADDED from [:library] D:\code\gdt\host\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:52:17-67
 provider#com.qihoo360.replugin.component.process.ProcessPitProviderUI
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:37:9-40:40
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:37:9-40:40
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:39:13-67
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:39:13-67
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:40:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:38:13-88
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:38:13-88
 provider#${applicationId}.loader.p.ProviderN1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:41:9-44:40
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:41:9-44:40
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:43:13-65
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:43:13-65
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:44:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:42:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:42:13-64
 provider#cn.anhui.mobile.carpooling.loader.p.ProviderN1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:41:9-44:40
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:41:9-44:40
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:43:13-65
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:43:13-65
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:44:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:42:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:42:13-64
 service#${applicationId}.loader.s.ServiceN1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:46:9-48:40
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:46:9-48:40
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:48:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:48:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:47:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:47:13-63
 service#cn.anhui.mobile.carpooling.loader.s.ServiceN1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:46:9-48:40
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:46:9-48:40
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:48:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:48:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:47:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:47:13-63
 provider#com.qihoo360.replugin.component.process.ProcessPitProviderLoader0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:50:9-54:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:50:9-54:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:54:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:54:13-39
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:52:13-66
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:52:13-66
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:53:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:53:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:51:13-93
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:51:13-93
 provider#${applicationId}.loader.p.Provider0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:55:9-59:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:55:9-59:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:59:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:59:13-39
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:57:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:57:13-64
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:58:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:58:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:56:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:56:13-63
 provider#cn.anhui.mobile.carpooling.loader.p.Provider0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:55:9-59:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:55:9-59:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:59:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:59:13-39
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:57:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:57:13-64
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:58:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:58:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:56:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:56:13-63
 service#${applicationId}.loader.s.Service0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:61:9-64:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:61:9-64:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:64:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:64:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:63:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:62:13-62
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:62:13-62
 service#cn.anhui.mobile.carpooling.loader.s.Service0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:61:9-64:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:61:9-64:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:64:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:64:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:63:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:62:13-62
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:62:13-62
 activity#${applicationId}.loader.a.Activity0_singleTask1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:66:9-74:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:66:9-74:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:72:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:72:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:71:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:71:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:70:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:70:13-44
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:69:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:69:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:68:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:68:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:74:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:74:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:73:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:73:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:67:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:67:13-75
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_singleTask1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:66:9-74:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:66:9-74:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:72:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:72:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:71:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:71:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:70:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:70:13-44
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:69:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:69:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:68:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:68:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:74:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:74:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:73:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:73:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:67:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:67:13-75
 activity#${applicationId}.loader.a.Activity0_singleInstance1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:75:9-82:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:75:9-82:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:81:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:81:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:80:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:80:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:79:13-48
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:79:13-48
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:78:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:78:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:77:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:77:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:82:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:82:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:76:13-79
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:76:13-79
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_singleInstance1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:75:9-82:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:75:9-82:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:81:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:81:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:80:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:80:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:79:13-48
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:79:13-48
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:78:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:78:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:77:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:77:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:82:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:82:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:76:13-79
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:76:13-79
 activity#${applicationId}.loader.a.Activity0_task
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:83:9-89:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:83:9-89:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:88:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:88:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:87:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:87:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:86:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:86:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:85:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:85:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:89:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:89:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:84:13-68
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:84:13-68
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_task
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:83:9-89:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:83:9-89:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:88:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:88:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:87:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:87:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:86:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:86:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:85:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:85:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:89:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:89:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:84:13-68
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:84:13-68
 activity#${applicationId}.loader.a.Activity0_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:90:9-96:74
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:90:9-96:74
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:95:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:95:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:94:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:94:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:93:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:93:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:92:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:92:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:96:13-71
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:96:13-71
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:91:13-74
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:91:13-74
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:90:9-96:74
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:90:9-96:74
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:95:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:95:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:94:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:94:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:93:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:93:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:92:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:92:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:96:13-71
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:96:13-71
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:91:13-74
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:91:13-74
 activity#${applicationId}.loader.a.Activity0_translucent
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:97:9-103:75
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:97:9-103:75
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:102:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:102:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:101:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:101:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:100:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:100:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:99:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:99:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:103:13-72
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:103:13-72
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:98:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:98:13-75
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_translucent
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:97:9-103:75
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:97:9-103:75
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:102:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:102:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:101:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:101:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:100:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:100:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:99:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:99:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:103:13-72
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:103:13-72
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:98:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:98:13-75
 activity#${applicationId}.loader.a.Activity0_translucent_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:104:9-110:86
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:104:9-110:86
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:109:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:109:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:108:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:108:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:107:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:107:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:106:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:106:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:110:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:110:13-83
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:105:13-86
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:105:13-86
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_translucent_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:104:9-110:86
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:104:9-110:86
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:109:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:109:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:108:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:108:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:107:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:107:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:106:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:106:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:110:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:110:13-83
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:105:13-86
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:105:13-86
 activity#${applicationId}.loader.a.Activity0_dialog
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:111:9-117:59
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:111:9-117:59
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:116:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:116:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:115:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:115:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:114:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:114:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:113:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:113:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:117:13-56
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:117:13-56
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:112:13-70
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:112:13-70
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0_dialog
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:111:9-117:59
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:111:9-117:59
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:116:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:116:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:115:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:115:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:114:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:114:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:113:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:113:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:117:13-56
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:117:13-56
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:112:13-70
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:112:13-70
 activity#${applicationId}.loader.a.Activity0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:118:9-125:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:118:9-125:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:123:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:123:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:122:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:122:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:121:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:121:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:120:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:120:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:125:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:125:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:124:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:124:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:119:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:119:13-63
 activity#cn.anhui.mobile.carpooling.loader.a.Activity0
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:118:9-125:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:118:9-125:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:123:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:123:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:122:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:122:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:121:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:121:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:120:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:120:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:125:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:125:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:124:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:124:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:119:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:119:13-63
 provider#com.qihoo360.replugin.component.process.ProcessPitProviderLoader1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:127:9-131:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:127:9-131:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:131:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:131:13-39
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:129:13-66
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:129:13-66
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:130:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:130:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:128:13-93
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:128:13-93
 provider#${applicationId}.loader.p.Provider1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:132:9-136:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:132:9-136:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:136:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:136:13-39
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:134:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:134:13-64
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:135:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:135:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:133:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:133:13-63
 provider#cn.anhui.mobile.carpooling.loader.p.Provider1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:132:9-136:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:132:9-136:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:136:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:136:13-39
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:134:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:134:13-64
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:135:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:135:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:133:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:133:13-63
 service#${applicationId}.loader.s.Service1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:138:9-141:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:138:9-141:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:141:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:141:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:140:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:140:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:139:13-62
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:139:13-62
 service#cn.anhui.mobile.carpooling.loader.s.Service1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:138:9-141:42
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:138:9-141:42
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:141:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:141:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:140:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:140:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:139:13-62
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:139:13-62
 activity#${applicationId}.loader.a.Activity1_singleTask1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:143:9-151:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:143:9-151:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:149:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:149:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:148:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:148:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:147:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:147:13-44
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:146:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:146:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:145:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:145:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:151:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:151:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:150:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:150:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:144:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:144:13-75
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_singleTask1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:143:9-151:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:143:9-151:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:149:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:149:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:148:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:148:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:147:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:147:13-44
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:146:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:146:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:145:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:145:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:151:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:151:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:150:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:150:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:144:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:144:13-75
 activity#${applicationId}.loader.a.Activity1_singleInstance1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:152:9-159:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:152:9-159:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:158:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:158:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:157:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:157:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:156:13-48
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:156:13-48
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:155:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:155:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:154:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:154:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:159:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:159:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:153:13-79
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:153:13-79
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_singleInstance1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:152:9-159:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:152:9-159:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:158:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:158:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:157:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:157:13-39
 	android:launchMode
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:156:13-48
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:156:13-48
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:155:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:155:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:154:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:154:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:159:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:159:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:153:13-79
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:153:13-79
 activity#${applicationId}.loader.a.Activity1_task
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:160:9-166:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:160:9-166:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:165:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:165:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:164:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:164:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:163:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:163:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:162:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:162:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:166:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:166:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:161:13-68
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:161:13-68
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_task
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:160:9-166:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:160:9-166:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:165:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:165:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:164:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:164:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:163:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:163:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:162:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:162:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:166:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:166:13-60
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:161:13-68
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:161:13-68
 activity#${applicationId}.loader.a.Activity1_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:167:9-173:74
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:167:9-173:74
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:172:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:172:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:171:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:171:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:170:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:170:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:169:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:169:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:173:13-71
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:173:13-71
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:168:13-74
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:168:13-74
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:167:9-173:74
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:167:9-173:74
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:172:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:172:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:171:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:171:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:170:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:170:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:169:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:169:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:173:13-71
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:173:13-71
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:168:13-74
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:168:13-74
 activity#${applicationId}.loader.a.Activity1_translucent
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:174:9-180:75
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:174:9-180:75
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:179:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:179:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:178:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:178:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:177:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:177:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:176:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:176:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:180:13-72
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:180:13-72
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:175:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:175:13-75
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_translucent
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:174:9-180:75
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:174:9-180:75
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:179:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:179:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:178:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:178:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:177:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:177:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:176:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:176:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:180:13-72
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:180:13-72
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:175:13-75
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:175:13-75
 activity#${applicationId}.loader.a.Activity1_translucent_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:181:9-187:86
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:181:9-187:86
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:186:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:186:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:185:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:185:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:184:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:184:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:183:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:183:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:187:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:187:13-83
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:182:13-86
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:182:13-86
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_translucent_fullscreen
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:181:9-187:86
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:181:9-187:86
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:186:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:186:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:185:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:185:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:184:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:184:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:183:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:183:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:187:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:187:13-83
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:182:13-86
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:182:13-86
 activity#${applicationId}.loader.a.Activity1_dialog
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:188:9-194:59
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:188:9-194:59
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:193:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:193:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:192:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:192:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:191:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:191:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:190:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:190:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:194:13-56
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:194:13-56
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:189:13-70
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:189:13-70
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1_dialog
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:188:9-194:59
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:188:9-194:59
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:193:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:193:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:192:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:192:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:191:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:191:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:190:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:190:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:194:13-56
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:194:13-56
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:189:13-70
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:189:13-70
 activity#${applicationId}.loader.a.Activity1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:195:9-202:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:195:9-202:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:200:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:200:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:199:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:199:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:198:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:198:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:197:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:197:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:202:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:202:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:201:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:201:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:196:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:196:13-63
 activity#cn.anhui.mobile.carpooling.loader.a.Activity1
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:195:9-202:63
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:195:9-202:63
 	android:screenOrientation
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:200:13-49
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:200:13-49
 	android:process
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:199:13-39
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:199:13-39
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:198:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:198:13-37
 	android:configChanges
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:197:13-83
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:197:13-83
 	android:theme
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:202:13-60
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:202:13-60
 	android:taskAffinity
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:201:13-44
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:201:13-44
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:196:13-63
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:196:13-63
 provider#com.qihoo360.replugin.component.provider.PluginPitProviderUI
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:204:9-207:40
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:204:9-207:40
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:206:13-65
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:206:13-65
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:207:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:207:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:205:13-88
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:205:13-88
 service#com.qihoo360.replugin.component.service.server.PluginPitServiceUI
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:209:9-101
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:209:9-101
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:209:18-98
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:209:18-98
 provider#com.qihoo360.replugin.packages.PluginFastInstallProvider
-ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:216:9-220:20
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:216:9-220:20
 	android:authorities
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:218:13-64
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:218:13-64
 	android:exported
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:219:13-37
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:219:13-37
 	android:name
-		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\90041bf502f477d5120a13f0ca78a533\AndroidManifest.xml:217:13-84
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.3.3] E:\android\gradle\caches\transforms-2\files-2.1\0a079ad41a5a278a68ff01a1e52d343c\AndroidManifest.xml:217:13-84

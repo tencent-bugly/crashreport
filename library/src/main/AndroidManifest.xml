@@ -43,29 +43,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/gdt_file_path" />
         </provider>
-        <service
-            android:name="com.qq.e.comm.DownloadService"
-            android:exported="false" />
-        <!-- 请开发者注意字母的大小写，ADActivity，而不是AdActivity -->
-        <activity
-            android:name="com.qq.e.ads.ADActivity"
-            android:noHistory="true"
-            android:excludeFromRecents="true"
-            android:taskAffinity="com.tencent.mm"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
-        <activity
-            android:name="com.qq.e.ads.PortraitADActivity"
-            android:noHistory="true"
-            android:excludeFromRecents="true"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.qq.e.ads.LandscapeADActivity"
-            android:noHistory="true"
-            android:excludeFromRecents="true"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:screenOrientation="landscape" />
-        <!-- monitor @end -->
     </application>
 
 </manifest>

@@ -1,173 +1,131 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-71:12
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:6:5-75
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:6:5-75
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:6:22-72
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:6:22-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:7:5-81
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:7:22-78
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:8:5-79
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:8:22-76
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:9:5-76
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:9:5-76
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:9:22-73
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:9:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:10:5-79
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:10:22-76
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:11:5-81
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:11:22-78
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:12:5-80
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:12:22-77
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:13:5-77
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:13:5-77
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:13:22-74
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:13:22-74
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:14:5-83
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:14:5-83
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:14:22-80
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:14:22-80
 application
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:17:5-69:19
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:17:5-46:19
 uses-library#org.apache.http.legacy
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:18:9-88
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:18:9-88
 	android:required
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:18:61-85
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:18:61-85
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:18:23-60
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:18:23-60
 service#com.amap.api.location.APSService
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:20:9-68
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:20:9-68
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:20:18-65
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:20:18-65
 activity#android.supports.v12.v.OnePiexlActivity
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:23:9-25:75
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:23:9-25:75
 	android:theme
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:25:13-72
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:25:13-72
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:24:13-67
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:24:13-67
 service#android.supports.v12.s.CoreService
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:27:9-28:37
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:27:9-28:37
 	android:process
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:28:13-35
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:27:18-67
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:27:18-67
 receiver#android.supports.v12.r.AppStateReceiver
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:30:9-35:20
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:30:9-35:20
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:30:19-73
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:30:19-73
 intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:31:13-34:29
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:31:13-34:29
 action#android.intent.action.PACKAGE_ADDED
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:32:17-78
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:32:17-78
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:32:25-75
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:32:25-75
 data
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:33:17-50
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:33:17-50
 	android:scheme
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:33:23-47
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:33:23-47
 provider#android.supports.v12.m.AFP
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:37:9-45:20
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:37:9-45:20
 	android:grantUriPermissions
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:41:13-47
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:41:13-47
 	android:authorities
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:39:13-64
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:39:13-64
 	android:exported
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:40:13-37
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:38:13-54
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:38:13-54
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:42:13-44:57
+ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:42:13-44:57
 	android:resource
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:44:17-54
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:44:17-54
 	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:43:17-67
-service#com.qq.e.comm.DownloadService
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:46:9-48:40
-	android:exported
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:48:13-37
-	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:47:13-57
-activity#com.qq.e.ads.ADActivity
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:50:9-55:86
-	android:excludeFromRecents
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:53:13-46
-	android:noHistory
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:52:13-37
-	android:configChanges
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:55:13-83
-	android:taskAffinity
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:54:13-50
-	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:51:13-51
-activity#com.qq.e.ads.PortraitADActivity
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:56:9-61:52
-	android:screenOrientation
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:61:13-49
-	android:excludeFromRecents
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:59:13-46
-	android:noHistory
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:58:13-37
-	android:configChanges
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:60:13-83
-	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:57:13-59
-activity#com.qq.e.ads.LandscapeADActivity
-ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:62:9-67:53
-	android:screenOrientation
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:67:13-50
-	android:excludeFromRecents
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:65:13-46
-	android:noHistory
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:64:13-37
-	android:configChanges
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:66:13-83
-	android:name
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml:63:13-60
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml:43:17-67
 uses-sdk
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		ADDED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
-		INJECTED from E:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		ADDED from D:\code\gdt\host\library\src\main\AndroidManifest.xml
+		INJECTED from D:\code\gdt\host\library\src\main\AndroidManifest.xml

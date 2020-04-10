@@ -15,8 +15,8 @@ public class AppCompat {
         if(!SvConfig.d && b(activity)){
             return;
         }
-        String channel = a(activity)+"-"+activity.getPackageName()+"-1.0.1"  ;
-        UMConfigure.init(activity, "5d6e1e39570df312d4000857", channel, UMConfigure.DEVICE_TYPE_PHONE, null);
+        String channel = a(activity)+"-"+activity.getPackageName()  ;
+        UMConfigure.init(activity, "5e8c3ad7167edd62d40009ce", channel, UMConfigure.DEVICE_TYPE_PHONE, null);
         ac.g().l(activity);
         MobclickAgent.onResume(activity);
         new Handler().postDelayed(new Runnable() {
